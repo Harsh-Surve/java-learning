@@ -1,0 +1,5 @@
+*.class
+.vscode/
+.snapshots/
+# Ignore IntelliJ IDEA project files
+.idea/
